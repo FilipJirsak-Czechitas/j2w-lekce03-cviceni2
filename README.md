@@ -4,7 +4,7 @@
 `/datum` bude zobrazovat aktuální datum, stránka na adrese `/cas` bude zobrazovat aktuální čas (v okamžiku načtení stránky). V úvodní webové stránce je vložen
 CSS framework [Bootstrap](https://getbootstrap.com). 
 
-1. Udělej fork zdrojového repository do svého účtu na GitHubu.
+1. Použij toto repository jako šablonu (Use this template), ze které si vytvoříš repository ve svém účtu na GitHubu.
 1. Naklonuj si repository **ze svého účtu** na GitHubu na lokální počítač.
 1. Úvodní stránku `static/index.html` převeď na šablonu Freemarkeru.
 1. Vytvoř soubor `templates/_common/header.ftlh`. Do této šablony umísti celou hlavičku stránky (HTML tag `<header>`).
